@@ -9,13 +9,13 @@ Requirements
 
 ToDo List
 =========
-* Farbe der Kugeln erkennen (Halb/Voll)
-* Ball Erkennung mit mehrern Frames
-* Pocket Erkennung
-* Config File lesen und benutzen (Done?)
-* Abfragen Auflösungsunabhängig
-* Ausgabe Bild
-* Punktestand
-* Que Erkennung
-* Spiele erstellen
-* Bildkorrektur wegen Spiegel
+[ ] Farbe der Kugeln erkennen (Halb/Voll)
+[ ] Ball Erkennung mit mehrern Frames
+[ ] Pocket Erkennung
+[ ] Config File lesen und benutzen (Done?)
+[ ] Abfragen Auflösungsunabhängig
+[ ] Ausgabe Bild
+[ ] Punktestand
+[ ] Que Erkennung
+[ ] Spiele erstellen
+[ ] Bildkorrektur wegen Spiegel
